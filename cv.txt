@@ -1,0 +1,31 @@
+<section class="resume">
+    <h2>Curriculum Vitae</h2>
+
+    <h3>VYSHNAVI SILIVERU</h3>
+    <p>Email: vyshnavisiliveru@gmail.com</p>
+    <p>Phone: +91-8885681801</p>
+
+    <h4>Education</h4>
+    <ul>
+        <li>B.Tech in Computer Science & AI – SR University</li>
+        <li>Intermediate – [Your College Name]</li>
+        <li>High School – [Your School Name]</li>
+    </ul>
+
+    <h4>Technical Skills</h4>
+    <ul>
+        <li>Programming Languages: Python, Java, HTML, CSS, JavaScript</li>
+        <li>Frameworks: Flask, React (optional)</li>
+        <li>Cloud: AWS (EC2)</li>
+    </ul>
+
+    <h4>Projects</h4>
+    <ul>
+        <li><strong>Personal Portfolio Website:</strong> Showcases projects and skills hosted on AWS EC2.</li>
+        <li><strong>Machine Learning App:</strong> Predictive model built with scikit-learn.</li>
+    </ul>
+
+    <h4>Contact</h4>
+    <p>Email: vyshnavisiliveru@gmail.com</p>
+    <p>Phone: +91-8885681801</p>
+</section>
